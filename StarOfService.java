@@ -64,7 +64,6 @@ public class StarOfService {
 			}
 				
 			waitForPage();
-			Thread.sleep(3000);
 			click("//*[@class=\"styles__itemV2___1Vo1Z styles__itemBase___rDyIf\"]");
 			nextbutton();
 			waitForPage();
